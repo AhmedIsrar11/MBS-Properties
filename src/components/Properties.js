@@ -3,9 +3,9 @@ import './Properties.css';
 const properties = [
   {
     id: 1,
-    title: 'Modern Villa in Downtown',
-    location: 'Downtown District, City Center',
-    price: '$1,250,000',
+    title: 'Modern Villa in DHA',
+    location: 'Phase 6, DHA, Lahore',
+    price: 'PKR 125,000,000',
     beds: 4,
     baths: 3,
     sqft: '3,200',
@@ -15,8 +15,8 @@ const properties = [
   {
     id: 2,
     title: 'Luxury Penthouse Suite',
-    location: 'Skyline Tower, Financial District',
-    price: '$2,800,000',
+    location: 'Blue Area, Islamabad',
+    price: 'PKR 280,000,000',
     beds: 3,
     baths: 2,
     sqft: '2,800',
@@ -26,8 +26,8 @@ const properties = [
   {
     id: 3,
     title: 'Contemporary Family Home',
-    location: 'Green Valley, Suburban Heights',
-    price: '$890,000',
+    location: 'Clifton, Block 4, Karachi',
+    price: 'PKR 89,000,000',
     beds: 5,
     baths: 4,
     sqft: '4,100',
@@ -37,8 +37,8 @@ const properties = [
   {
     id: 4,
     title: 'Elegant Studio Apartment',
-    location: 'Arts Quarter, Midtown',
-    price: '$425,000',
+    location: 'Gulberg III, Lahore',
+    price: 'PKR 42,500,000',
     beds: 1,
     baths: 1,
     sqft: '850',
@@ -48,8 +48,8 @@ const properties = [
   {
     id: 5,
     title: 'Waterfront Mansion',
-    location: 'Coastal Drive, Marina Bay',
-    price: '$4,500,000',
+    location: 'DHA Phase 8, Karachi',
+    price: 'PKR 450,000,000',
     beds: 6,
     baths: 5,
     sqft: '6,500',
@@ -59,8 +59,8 @@ const properties = [
   {
     id: 6,
     title: 'Commercial Office Space',
-    location: 'Business Park, Tech Hub',
-    price: '$1,750,000',
+    location: 'F-7 Markaz, Islamabad',
+    price: 'PKR 175,000,000',
     beds: 0,
     baths: 2,
     sqft: '5,000',

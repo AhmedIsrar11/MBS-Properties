@@ -2,13 +2,13 @@ import './Testimonials.css';
 
 const testimonials = [
   {
-    name: 'Sarah Mitchell',
+    name: 'Fatima Ahmed',
     role: 'Homeowner',
     text: 'MBS Properties made our dream home a reality. Their team was incredibly professional and attentive to every detail. The entire process was seamless.',
     rating: 5,
   },
   {
-    name: 'James Anderson',
+    name: 'Muhammad Tariq',
     role: 'Property Investor',
     text: 'Outstanding investment advisory services. They helped me identify properties with incredible ROI potential. My portfolio has grown 40% in two years.',
     rating: 5,
