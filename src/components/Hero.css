@@ -135,18 +135,18 @@
   }
 
   .hero h1 {
-    font-size: 3.1rem;
+    font-size: 2.9rem;
     margin-bottom: 20px;
     line-height: 1.2;
   }
 
   .hero-desc {
-    font-size: 1.16rem;
+    font-size: 1.15rem;
     margin-bottom: 20px;
   }
 
   .hero-categories {
-    font-size: 0.88rem;
+    font-size: 0.80rem;
     letter-spacing: 1.2px;
     margin-bottom: 34px;
     white-space: nowrap;
