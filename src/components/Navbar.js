@@ -24,8 +24,8 @@ function Navbar() {
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="container navbar-container">
         <a href="#home" className="logo animate-navbar-logo">
-          <span className="logo-mbs">MBS</span>
-          <span className="logo-properties">Properties</span>
+          <span className="logo-mbs">Awan</span>
+          <span className="logo-properties">Marketing</span>
         </a>
 
         <ul className={`nav-links ${menuOpen ? 'active' : ''}`}>

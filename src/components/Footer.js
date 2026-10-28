@@ -7,8 +7,8 @@ function Footer() {
         <div className="footer-grid">
           <div className="footer-brand">
             <a href="#home" className="footer-logo">
-              <span className="logo-mbs">MBS</span>
-              <span className="logo-properties">Properties</span>
+              <span className="logo-mbs">Awan</span>
+              <span className="logo-properties">Marketing</span>
             </a>
             <p>
               Your trusted partner in premium real estate. We help you find the
@@ -66,16 +66,16 @@ function Footer() {
           <div className="footer-links">
             <h4>Contact Info</h4>
             <ul>
-              <li>123 Business Avenue</li>
-              <li>Suite 500, City Center</li>
-              <li>+1 (555) 123-4567</li>
-              <li>info@mbsproperties.com</li>
+              <li>Main G.T. Road</li>
+              <li>Nowshera, KPK</li>
+              <li>+92 (300) 123-4567</li>
+              <li>info@awanmarketingnowshera.com</li>
             </ul>
           </div>
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} MBS Properties. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Awan Marketing Noushera. All rights reserved.</p>
         </div>
       </div>
     </footer>

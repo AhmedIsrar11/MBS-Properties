@@ -19,10 +19,10 @@ function About() {
         </div>
 
         <div className="about-content">
-          <p className="about-subtitle">About MBS Properties</p>
+          <p className="about-subtitle">About Awan Marketing Noushera</p>
           <h2>Building Trust Through Premium Real Estate</h2>
           <p className="about-desc">
-            MBS Properties has been a trusted name in premium real estate for over a decade.
+            Awan Marketing Noushera has been a trusted name in premium real estate for over a decade.
             We combine market expertise with personalized service to deliver exceptional
             results for buyers, sellers, and investors alike.
           </p>

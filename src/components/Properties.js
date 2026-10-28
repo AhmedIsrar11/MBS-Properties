@@ -10,7 +10,7 @@ const properties = [
     baths: 3,
     sqft: '3,200',
     type: 'Villa',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const properties = [
     baths: 2,
     sqft: '2,800',
     type: 'Penthouse',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const properties = [
     baths: 4,
     sqft: '4,100',
     type: 'House',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const properties = [
     baths: 1,
     sqft: '850',
     type: 'Apartment',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ const properties = [
     baths: 5,
     sqft: '6,500',
     type: 'Mansion',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
   {
     id: 6,
@@ -65,7 +65,7 @@ const properties = [
     baths: 2,
     sqft: '5,000',
     type: 'Commercial',
-    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=MBS+Properties',
+    image: 'https://via.placeholder.com/600x400/1a1a1a/c8a55a?text=Awan+Marketing',
   },
 ];
 

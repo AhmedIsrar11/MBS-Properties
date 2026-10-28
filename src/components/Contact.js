@@ -40,7 +40,7 @@ function Contact() {
               </div>
               <div>
                 <h4>Our Office</h4>
-                <p>123 Business Avenue, Suite 500<br/>City Center, State 10001</p>
+                <p>Main G.T. Road<br/>Nowshera, KPK, Pakistan</p>
               </div>
             </div>
 
@@ -52,7 +52,7 @@ function Contact() {
               </div>
               <div>
                 <h4>Phone</h4>
-                <p>+1 (555) 123-4567</p>
+                <p>+92 (300) 123-4567</p>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ function Contact() {
               </div>
               <div>
                 <h4>Email</h4>
-                <p>info@mbsproperties.com</p>
+                <p>info@awanmarketingnowshera.com</p>
               </div>
             </div>
           </div>

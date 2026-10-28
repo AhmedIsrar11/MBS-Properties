@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: 'Fatima Ahmed',
     role: 'Homeowner',
-    text: 'MBS Properties made our dream home a reality. Their team was incredibly professional and attentive to every detail. The entire process was seamless.',
+    text: 'Awan Marketing Noushera made our dream home a reality. Their team was incredibly professional and attentive to every detail. The entire process was seamless.',
     rating: 5,
   },
   {
@@ -28,7 +28,7 @@ function Testimonials() {
         <div className="section-title">
           <h2>Client Testimonials</h2>
           <div className="accent-line"></div>
-          <p>Hear from our satisfied clients about their experience with MBS Properties</p>
+          <p>Hear from our satisfied clients about their experience with Awan Marketing Noushera</p>
         </div>
 
         <div className="testimonials-grid">
